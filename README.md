@@ -15,7 +15,7 @@
 ### Compara dos número
 
 #### Descripción del problema
-Este progrma en c++ permite comparar dos numero y determaniar si son igual o cual es el mayor.
+Este progrma en c++ permite comparar dos numero y determinar si son iguales o cual es el mayor.
 #### Funcionalidad
 
 float VV_A,VV_B;
