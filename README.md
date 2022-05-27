@@ -29,7 +29,7 @@ if(VV_A<VV_B); a es el mayor
 ### Suma de varios números 
 
 #### Descripción del problema
-Este programa en c++ nos permite ingresar cualquier cantidda de numeros para luego mostrar la suma total de todos estos.
+Este programa en c++ nos permite ingresar cualquier cantidad de numeros para luego mostrar la suma total de todos estos.
 
 #### Funcionalidad
 
