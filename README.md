@@ -3,9 +3,11 @@
 ## Información del autor
 
 `Autor: Vanessa Vargas`
+
 `correo: roshiitoral312@gmail.com`
 
 `En el siguiente link podran encontrar la actividad-B1 sobre INFORMATICA, COMPUTADORAS Y LENGUAJES DE PROGRAMACIÓN`:
+
 ( https://youtu.be/cctlGkTGkW4 )
 
 ## Programas 
