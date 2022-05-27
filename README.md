@@ -95,17 +95,12 @@ while(VV_c<VV_n);            Total de monedas
 ### Descargar el repositorio
 1.- clonar el repositorio en la maquina local.
 
-```
 git clone https://github.com/VanessaVargas31/ACTIVIDAD-E2.git
-```
-```
-cd ACTIVIDAD-E2
-```
-### Compilar y ejecutar
-```
-g++  VARGASVANESSA-Compara.cpp -o VARGASVANESSA-Compara
-```
-```
-./VARGASVANESSA-Compara
-```
 
+cd ACTIVIDAD-E2
+
+### Compilar y ejecutar
+
+g++  VARGASVANESSA-Compara.cpp -o VARGASVANESSA-Compara
+
+./VARGASVANESSA-Compara
