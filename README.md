@@ -105,6 +105,7 @@ Ejemplo:
 
 git clone https://github.com/VanessaVargas31/ACTIVIDAD-E2.git
 
+2.-Con el comando  "cd" podrá acceder a la carpeta contenedora de los archivos.  Ejemplo:
 cd ACTIVIDAD-E2
 
 ### Compilar y ejecutar
