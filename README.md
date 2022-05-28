@@ -107,4 +107,6 @@ cd ACTIVIDAD-E2
 
 g++  VARGASVANESSA-Compara.cpp -o VARGASVANESSA-Compara
 
+•Con este comando podras ejecutar el archivo "./'nombre del programa'".  Ejemplo:
+
 ./VARGASVANESSA-Compara
