@@ -20,7 +20,7 @@ VARGASVANESSA-CuentaMoneda.cpp
 ### VARGASVANESSA-Compara.cpp
 
 #### Descripción del problema
-Este progrma en c++ permite comparar dos numero y determinar si son iguales o cual es el mayor.
+Este programa en c++ permite comparar dos numero y determinar si son iguales o cual es el mayor.
 #### Funcionalidad
 
 float VV_A,VV_B;
