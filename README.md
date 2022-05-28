@@ -1,101 +1,82 @@
-# Programas en c++ de Vanessa Vargas
+# **BIENVENIDOS A PROGRAMAS EN C++ DE VARGAS VANESSA**
 
-## Información del autor
 
-`Autora: Vanessa Vargas`
+**INFORMACION DEL AUTOR**
+###### `Autor: VARGAS VANESSA`
+######  `Enlace video:`  https://youtu.be/cctlGkTGkW4
+###### `Correo: roshiitoral312@gmail.com `
+# PROGRAMAS
+**Compara de dos números**
 
-`Correo: roshiitoral312@gmail.com`
+###### Descripción del problema
+Diagrama de flujo y programa en C++ que permita ingresar dos valores y los compara para saber cuál es el mayor en caso de que sean iguales, indique que son iguales.
 
-`En el siguiente link podran encontrar la actividad-B1 sobre INFORMATICA, COMPUTADORAS Y LENGUAJES DE PROGRAMACIÓN`:
+1. Debe ingresar los numeros a comparar.
+2. El programa realizará una comparación de los numeros ingresados
+3. El programa designará cual es el mayor o si son iguales.
+4. Finalmente mostrará el resultado por pantalla.
+###### Funcionalidad
+`float VV_x, VV_y;`
+###### Salida
+`if(VV_x==VV_y)  son iguales
+if(VV_x<VV_y)   a es el mayor`
 
-( https://youtu.be/cctlGkTGkW4 )
+**Suma de varios números**
+###### Descripción del programa
+Diagrama de flujo y programa en C++ en C++ que permite sumar varios números el usuario debe ingresar la cantidad de número que quiere sumar y el programa debe mostrar la suma total de los números.
+1. Ingresa los 2 numeros para hacer la sumarespectiva.
+2. El programa realizara la suma de los numeros ingresados.
+3. Finalmente el programa mostrara el resultado de aquella suma.
+###### Funcionalidad
+`int VV_c=0, VV_n;
+    float VV_s=0, VV_x;`
+###### Salida
+`cout<<"Ingrese un número para sumarlo: "<<VV_s<<endl;`
 
-## Programas 
-VARGASVANESSA-Compara.cpp
-VARGASVANESSA-Sumadevariosnumeros.cpp
-VARGASVANESSA-Laedad.cpp
-VARGASVANESSA-PuntoVenta.cpp
-VARGASVANESSA-CuentaMoneda.cpp
+**Calcula la edad**
+###### Descripción del programa
+Diagrama de flujo y programa en C++ que permite calcular de edad de una persona, el programa debe permitir ingresar la fecha actual, la fecha de nacimiento y mostrar cuantos años, meses y días tiene la persona.
 
-### VARGASVANESSA-Compara.cpp
+ 1.Ingresa los datos pedido por el programa.
+ 
+ 2.El programa se encargá de hacer los calculos respectivos.
+ 
+  3.El programa mostrará el resultado del calculo realizado.
 
-#### Descripción del problema
-Este programa en c++ permite comparar dos numero y determinar si son iguales o cual es el mayor.
-#### Funcionalidad
+###### Funcionalidad
+`int VV_AA,VV_MA,VV_DA,VV_AN,VV_MN,VV_DN,VV_A,VV_M,VV_D;`
+###### Salida
+`cout<<"Usted tiene "<<VV_A<<" años "<<VV_M<<" meses  y"<<VV_D<<" dias ";`
 
-float VV_A,VV_B;
+**Punto de Venta**
+###### Descripción del programa
+Diagrama de flujo y programa en C++ que permita ingresar el precio de varios productos y calculo el IVA a cobrar el descuento y el valor final a pagar, el programa mostrara total valor bruto, valor del IVA, valor del descuento y valor final a pagar.
+1. Ingrese cuantos productos comprará.
+2. Ingrese el valor de cada producto.
+3. Realizará el respectivo calculo para sacar el el valor de su compra con el iva incluido.
+4. Realizará otro calculo para hacerle un descuento del valor con iva.
+5. El programa por ultimo mostrará el resultado del valor correspondiente a su compra
+###### Funcionalidad
+`float VV_A=0, VV_x, VV_Tb, VV_Piva, VV_Pdsc, VV_iva=0.12, VV_desc=0.30, ct_vt;`
+###### Salida
+`cout<<"El valor total es de: $"<<VV_vt<<endl;`
 
-#### Salida
+**Cuenta moneda**
 
-if(VV_A==VV_B); son iguales 
+Diagrama de flujo y programa en C++ que permita ingresar varias monedas de 2 tipos diferentes (10ctv y 25ctv) y presentara cuantas monedas de cada denominación se ingresaron, cuanto es la cantidad en dinero de cada denominación; así como la cantidad de dinero total que se ingresaron.
+1. Ingresa la cantidad de monedas por contar.
+2. Selecciona cuantas monedas son de 0.25 y cuantas son de 0.10.
+3. El programa hará la contabilidad de las monedas ingresadas.
+4. Por ultimo mostrará el resultado de todas las monedas ingresadas.
+###### Funcionalidad
+`int VV_n, VV_c=0, VV_c1=0, VV_c2=0;
+	float VV_x, VV_a=0, VV_a1=0, VV_a2=0, VV_m=0.10;`
+###### Salida
+`if(VV_x==VV_m)
+if (VV_c1=VV_c1+1)
+if (VV_a1=VV_a1+VV_x)
+while(VV_c<VV_n)`
 
-if(VV_A<VV_B); a es el mayor 
-
-### VARGASVANESSA-Sumadevariosnumeros.cpp
-
-#### Descripción del problema
-Este programa en c++ nos permite ingresar cualquier cantidad de numeros para luego mostrar la suma total de todos estos.
-
-#### Funcionalidad
-
-int VV_c=0, VV_n;
-
-float VV_s=0, VV_x;
-
-#### Salida
-
-while(VV_c<VV_n);       el resultado de la suma total
-
-### VARGASVANESSA-Laedad.cpp
-
-#### Descripción del problema
-Este programa en c++ nos ayuda a saber cuantos años tiene una persona, ademas de saber cuantos meses y dias tiene tambien.
-
-#### Funcionalidad
-
-int VV_AA,VV_MA,VV_DA,VV_AN,VV_MN,VV_DN,VV_A,VV_M,VV_D;
-
-#### Salida
-
-if(VV_DA>=VV_DN);
-
-if(VV_MA>=VV_MN);        La edad de la persona 
-
-### VARGASVANESSA-PuntoVenta.cpp
-
-#### Descripción del problema
-Este programa en c++ nos ayuda a ingresar cantidades de compras o productos, para luego sacar el iva, descuento y total de su compra
-
-#### Funcionalidad
-
-int VV_C=0, VV_P;
-
-float VV_A=0,VV_X,VV_Vb,VV_Viva,VV_Vdes,VV_Iva=0.12,VV_Descu=0.10,VV_Vf;
-
-#### Salida
-
-while(VV_C<VV_P);
-
-if(VV_Vb==VV_A);
-
-VV_Vf=VV_A+VV_Viva-VV_Vdes;     valor final a pagar
-
-### VARGASVANESSA-CuentaMoneda.cpp
-
-#### Descripción del problema
-Este programa en c++ nos ayuda a contar las denominaciones de monedas de (0.10 ctvs y 0.25 ctvs) ingresadas y mostrar la suma total de estas
-
-#### Funcionalidad
-
-int VV_n, VV_c=0, VV_c1=0, VV_c2=0;
-
-float VV_x, VV_a=0, VV_a1=0, VV_a2=0, VV_m=0.10;
-
-#### Salida
-
-if(VV_x==VV_m);            
-
-while(VV_c<VV_n);            Total de monedas
 
 ## Instalación
 
