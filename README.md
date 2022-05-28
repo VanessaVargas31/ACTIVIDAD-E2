@@ -100,7 +100,7 @@ while(VV_c<VV_n);            Total de monedas
 ## Instalación
 
 ### Descargar el repositorio
-1.- Para descargar todos los archivos del repositorio clonamos ("git clone https://github.com/'USUARIO'/'NOMBRE DE REPOSITORIO.git'") 
+1.- Para descargar todos los archivos del repositorio clonamos "git clone https://github.com/'USUARIO'/'NOMBRE DE REPOSITORIO.git'"
 Ejemplo:
 
 git clone https://github.com/VanessaVargas31/ACTIVIDAD-E2.git
