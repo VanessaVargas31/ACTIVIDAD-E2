@@ -100,18 +100,19 @@ while(VV_c<VV_n);            Total de monedas
 ## Instalación
 
 ### Descargar el repositorio
-1.- clonar el repositorio en la maquina local.
+1.- Para descargar todos los archivos del repositorio clonamos ("git clone https://github.com/'USUARIO'/'NOMBRE DE REPOSITORIO.git'") 
+Ejemplo:
 
 git clone https://github.com/VanessaVargas31/ACTIVIDAD-E2.git
 
 cd ACTIVIDAD-E2
 
 ### Compilar y ejecutar
-•Con este comando podrás compilar el archivo requerido "g++ 'nombre del programa.cpp' -o 'nuevo nombre del programa'.
+1.-Con este comando podrás compilar el archivo requerido "g++ 'nombre del programa.cpp' -o 'nuevo nombre del programa'.
  Ejemplo:
 
 g++  VARGASVANESSA-Compara.cpp -o VARGASVANESSA-Compara
 
-•Con este comando podras ejecutar el archivo "./'nombre del programa'".  Ejemplo:
+2.-Con este comando podras ejecutar el archivo "./'nombre del programa'".  Ejemplo:
 
 ./VARGASVANESSA-Compara
