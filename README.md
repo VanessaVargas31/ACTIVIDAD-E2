@@ -2,17 +2,22 @@
 
 ## Información del autor
 
-`Autor: Vanessa Vargas`
+`Autora: Vanessa Vargas`
 
-`correo: roshiitoral312@gmail.com`
+`Correo: roshiitoral312@gmail.com`
 
 `En el siguiente link podran encontrar la actividad-B1 sobre INFORMATICA, COMPUTADORAS Y LENGUAJES DE PROGRAMACIÓN`:
 
 ( https://youtu.be/cctlGkTGkW4 )
 
 ## Programas 
+VARGASVANESSA-Compara.cpp
+VARGASVANESSA-Sumadevariosnumeros.cpp
+VARGASVANESSA-Laedad.cpp
+VARGASVANESSA-PuntoVenta.cpp
+VARGASVANESSA-CuentaMoneda.cpp
 
-### Compara dos número
+### VARGASVANESSA-Compara.cpp
 
 #### Descripción del problema
 Este progrma en c++ permite comparar dos numero y determinar si son iguales o cual es el mayor.
