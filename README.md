@@ -31,7 +31,7 @@ if(VV_A==VV_B); son iguales
 
 if(VV_A<VV_B); a es el mayor 
 
-### Suma de varios números 
+### VARGASVANESSA-Sumadevariosnumeros.cpp
 
 #### Descripción del problema
 Este programa en c++ nos permite ingresar cualquier cantidad de numeros para luego mostrar la suma total de todos estos.
@@ -46,7 +46,7 @@ float VV_s=0, VV_x;
 
 while(VV_c<VV_n);       el resultado de la suma total
 
-### Calculo de la edad 
+### VARGASVANESSA-Laedad.cpp
 
 #### Descripción del problema
 Este programa en c++ nos ayuda a saber cuantos años tiene una persona, ademas de saber cuantos meses y dias tiene tambien.
@@ -61,7 +61,7 @@ if(VV_DA>=VV_DN);
 
 if(VV_MA>=VV_MN);        La edad de la persona 
 
-### Punto de venta 
+### VARGASVANESSA-PuntoVenta.cpp
 
 #### Descripción del problema
 Este programa en c++ nos ayuda a ingresar cantidades de compras o productos, para luego sacar el iva, descuento y total de su compra
@@ -80,7 +80,7 @@ if(VV_Vb==VV_A);
 
 VV_Vf=VV_A+VV_Viva-VV_Vdes;     valor final a pagar
 
-### Cuenta moneda
+### VARGASVANESSA-CuentaMoneda.cpp
 
 #### Descripción del problema
 Este programa en c++ nos ayuda a contar las denominaciones de monedas de (0.10 ctvs y 0.25 ctvs) ingresadas y mostrar la suma total de estas
